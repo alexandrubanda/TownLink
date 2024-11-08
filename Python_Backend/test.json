@@ -1,0 +1,19 @@
+{
+  "conv_name": "Test 1",
+  "conv_id": 184,
+  "user": "Test_User",
+  "messages": [
+    {
+      "text": "Hello, how are you?"
+    },
+    {
+      "text": "I'm here to help! How can I assist you today?"
+    },
+    {
+      "text": "I need to store our conversation in JSON format."
+    },
+    {
+      "text": "Here's an example JSON structure to help you do that..."
+    }
+  ]
+}
